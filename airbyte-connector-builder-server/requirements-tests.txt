@@ -139,7 +139,7 @@ six==1.16.0
     #   vcrpy
 sniffio==1.3.0
     # via anyio
-starlette==0.25.0
+starlette==0.27.0
     # via fastapi
 toml==0.10.2
     # via pytest
